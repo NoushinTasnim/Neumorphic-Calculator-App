@@ -3,9 +3,15 @@
 A basic calculator app built with Flutter that features a neuromorphic user interface and supports dark and light modes.
 
 ## Screenshots
+[Calculator App - Light Mode]
+<p align="center">
+<img src="https://github.com/NoushinTasnim/Neumorphic-Calculator-App/blob/main/screenshots/Screenshot%202023-05-16%20at%207.37.24%20PM.png" width="250"/>
+</p>
 
-[Calculator App - Light Mode](screenshots/https://github.com/NoushinTasnim/Neumorphic-Calculator-App/blob/main/screenshots/Screenshot%202023-05-16%20at%207.37.24%20PM.png)
-[Calculator App - Dark Mode](https://github.com/NoushinTasnim/Neumorphic-Calculator-App/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-05-17%20at%2001.44.46.png)
+[Calculator App - Dark Mode]
+<p align="center">
+<img src="https://github.com/NoushinTasnim/Neumorphic-Calculator-App/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-05-17%20at%2001.44.46.png" width="250"/>
+</p>
 
 ## Features
 
