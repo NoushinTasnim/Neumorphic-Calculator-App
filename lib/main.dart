@@ -80,6 +80,7 @@ class _MyAppState extends State<MyApp> {
           userInput = userInput.replaceAll("inv", "^-1");
           userInput = userInput.replaceAll("√", "sqrt");
           userInput = userInput.replaceAll("exp", "*10^");
+          userInput = userInput.replaceAll("e", "2.71828");
           print(userInput);
           Parser p = Parser();
           Expression expression = p.parse(userInput);
