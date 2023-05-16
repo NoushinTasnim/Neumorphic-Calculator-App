@@ -1,16 +1,22 @@
-# calculator
+# Basic Calculator App
 
-A new Flutter project.
+A basic calculator app built with Flutter that features a neuromorphic user interface and supports dark and light modes.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Calculator App - Light Mode](screenshots/https://github.com/NoushinTasnim/Neumorphic-Calculator-App/blob/main/screenshots/Screenshot%202023-05-16%20at%207.37.24%20PM.png)
+![Calculator App - Dark Mode](screenshots/screenshots/Simulator Screenshot - iPhone 14 Pro Max - 2023-05-17 at 01.44.46.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Perform basic arithmetic calculations (addition, subtraction, multiplication, division).
+- Supports decimal numbers.
+- Toggle between dark and light modes.
+- Neumorphic design for a modern and appealing UI.
+- Input and output fields with dynamic font sizes for optimal readability.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+
+- [Flutter](https://flutter.dev/) - UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- [Neumorphic](https://pub.dev/packages/neumorphic) - Flutter package for creating neumorphic-style widgets.
+- [Math Expressions](https://pub.dev/packages/math_expressions) - Flutter package for parsing and evaluating mathematical expressions.
